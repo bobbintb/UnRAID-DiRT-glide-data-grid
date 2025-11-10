@@ -102,13 +102,13 @@ The frontend for this Unraid plugin consists of `.page` files, which are `php` f
 
 ### Frontend Libraries
 
-This project uses Tabulator 6.3.1. Before implementing new features or customizations, **you must** consult the official documentation to see if a built-in solution exists. This is to avoid complication as well as wasted time and effort custom coding functions or features that are already natively handled by the Tabulator library.
+This project uses Glide Data Grid 6.0.3. Before implementing new features or customizations, **you must** consult the official documentation to see if a built-in solution exists. This is to avoid complication as well as wasted time and effort custom coding functions or features that are already natively handled by the Glide Data Grid library.
 
-- **`dirt-tabulator.page`**:
+- **`dirt-glide.page`**:
 
-    - **Library**: Tabulator v6.3.1
+    - **Library**: Glide Data Grid v6.0.3
 
-    - **Documentation**: [https://tabulator.info/docs/6.3](https://tabulator.info/docs/6.3 "null")
+    - **Documentation**: [https://docs.grid.glideapps.com/](https://docs.grid.glideapps.com/ "null")
 
 
 ### Running Tests (Playwright)
